@@ -11,9 +11,9 @@ Reads data from a csv file and returns it as a json format using node.js
 ### Examples:
 
 - Retrieving an entry
-    ``` $ node src/index.js 3 ```   
-    Returns all the data from the 3rd entry.
+    - ``` $ node src/index.js 3 ```   
+    - Returns all the data from the 3rd entry.
 
 - Retrieving specific data
-    ``` $ node src/index.js 3 first_name ```
-    Returns the 'first_name' data from the 3rd entry.
+    - ``` $ node src/index.js 3 first_name ```
+    - Returns the 'first_name' data from the 3rd entry.
